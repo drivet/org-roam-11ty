@@ -2,3 +2,4 @@ node_modules/
 _site/
 content/**/*.md
 org-roam/.org-roam.db
+public/*
