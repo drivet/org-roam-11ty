@@ -1,0 +1,12 @@
+<html>
+  <head>
+    {{ partial "head.html" . }}
+  </head>
+  <body>
+    <h1>{{ .Title }}</h1>
+    {{ .Content }}
+    {{ range .Pages }}
+    <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
+    {{ end }}
+  </body>
+</html> 
