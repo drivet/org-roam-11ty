@@ -4,6 +4,13 @@
 #+date: [2024-07-09 18:16]
 #+title: Start here
 
+Welcome to [[https://desmondrivet.com/about][my]] [[id:E9DDE472-8D71-4547-992C-56D16AE6A5E5][digital garden]], a repository for notes, reviews, recipes and
+whatever else strikes my fancy.  Though you are, of course, welcome to
+explore (this site wouldn't be public otherwise), I wrote these notes with
+only myself in mind, so you may not get much use out of them.
+
+This garden is generated with [[id:07022b8a-cfe2-4b37-8e78-0844d3f57a5c][Hugo]] via an [[id:4e639dc7-567a-408b-9ec1-c3f958958952][Org Roam]] note repository.
+
 This [[id:E9DDE472-8D71-4547-992C-56D16AE6A5E5][digital garden]] has a number of "node communities" or "jumping off
 points":
 
