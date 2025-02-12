@@ -1,0 +1,15 @@
+<html>
+  <head>
+    {{ partial "head.html" . }}
+  </head>
+  <body>
+    <main>
+      <article class="h-entry">
+        <h1>{{ .Title }}</h1>
+        <div>
+          {{.Content}}
+        </div>
+      </article>
+    </main>
+  </body>
+</html>      

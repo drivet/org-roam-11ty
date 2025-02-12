@@ -1,0 +1,7 @@
+baseURL = 'https://desmondrivet.com/'
+languageCode = 'en-us'
+title = "Desmond Digital Garden"
+uglyURLs = true
+disableKinds = ["sitemap", "RSS"]
+[Taxonomies]
+  tags = "tags"
